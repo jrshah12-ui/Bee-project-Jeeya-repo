@@ -41,4 +41,6 @@ There are several methods to collaborative programming on GitHub, using Forks an
 The Honey-Bee-Behavior repository: https://github.com/Collective-Logic-Lab/honey-bee-behavior
 Press the “Fork” button
 
+<img width="473" height="265" alt="Screenshot 2026-09-14 165750" src="https://github.com/user-attachments/assets/44326dc5-3b52-4215-b7da-0c72c7ae1aa3" />
+
 
